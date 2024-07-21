@@ -7,7 +7,9 @@ Hello This is clone of Swiggy Web Application so
 4.  4.`order`,
 5.  5.`orderitems`,
 6.  `orderitems`.
-A.So I added google drive link of database and all 6 table structure and data also just download file extract if allready database is present of `tapfoods` drop first then go to MYSQl WORKBENCH
+A.So I added google drive link of database and all 6 table structure and data also just download file extract.
+Google Drive databse link is : https://drive.google.com/drive/folders/15ZtyPCVnO4I4atmzG9OsIVQ3z1s6at7v?usp=sharing.
+if allready database is present of `tapfoods` drop first then go to MYSQl WORKBENCH
 then  go to menu bar in -> server option -> Data Import -> click on Import from Dump Project folder -> then choose the downloded and extracted folder -> below Select Database Objects to Import (only available for Project folders) have to select checkbox select all tables right side ->
 below choose drop down option is Dump DataStructure and Data -> finally click on Start Import .
 then it will imports all the database and table .
