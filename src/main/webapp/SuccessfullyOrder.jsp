@@ -64,7 +64,7 @@ video{
 <div>
 	<h1> CHILL RELAX, FOOD IS ON YOUR WAY </h1>
 </div>
-	<video width="90%" height="500px" controls>
+	<video width="90%" height="500px" controls autoplay>
   <source src="imgfolder/Food_Delivery.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>

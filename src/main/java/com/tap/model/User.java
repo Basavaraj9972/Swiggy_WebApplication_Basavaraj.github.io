@@ -2,8 +2,6 @@ package com.tap.model;
 
 import java.time.LocalDateTime;
 
-import org.apache.tomcat.jni.Local;
-
 public class User {
 	private int userId;
 	private String name;
