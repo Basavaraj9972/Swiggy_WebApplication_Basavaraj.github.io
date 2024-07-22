@@ -1,6 +1,6 @@
 Hello This is clone of Swiggy Web Application so
-1)Extract This Project, I am used MySql Data Base so you need to create database name: `tapfoods`  
-2)6 tables are there so 
+1.Extract This Project, I am used MySql Data Base so you need to create database name: `tapfoods`  
+2.6 tables are there so 
 1. `user`,
 2. 2.`restaurant`,
 3.  3.`menu`,
